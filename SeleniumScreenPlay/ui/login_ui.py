@@ -9,4 +9,5 @@ class LoginUi:
     input_user = 'user-name'
     input_password = 'password'
     button = 'login-button'
+    button2 = '//*[@id="login-button"]'
     xpath_page_init = '//*[@id="header_container"]/div[2]/span'
